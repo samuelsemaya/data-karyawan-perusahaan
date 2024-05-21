@@ -1,5 +1,7 @@
 # Company Employee Data
 
+<img src="https://i.ibb.co.com/G3rWcZY/data-karyawan-perusahaan.png" width=50% height=50%>
+
 ## Overview
 The Company Employee Data project created in Python is a tool designed to manage and analyze employee information within a company. Using Python programming language, the project enables users to read, create update, and delete employee data efficiently. Moreover, the project can also be used for filter and sort data accurately.  The project helps in maintaining a centralized repository of employee details, such as names, positions, salaries, and contact information. It provides functionalities like adding new employees, updating existing records, and generating reports based on various parameters. Overall, the Company Employee Data project serves as a valuable tool for HR departments and managers to better organize and utilize employee information.
 
