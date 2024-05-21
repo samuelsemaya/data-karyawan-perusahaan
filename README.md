@@ -13,7 +13,7 @@ The Company Employee Data project created in Python is a tool designed to manage
 > [!WARNING]
 > Might work with older version but not guaranteed will work properly.
 
-## Pip Install Instructions
+## Installation
 Open Terminal and type ```pip install tabulate```
 
 ## Features
