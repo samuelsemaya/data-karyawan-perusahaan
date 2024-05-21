@@ -19,7 +19,7 @@ The Company Employee Data project created in Python is a tool designed to manage
 * Sort Data
 
 ## Pip Install Instructions
-* Open Terminal and type ```pip install tabulate```
+Open Terminal and type ```pip install tabulate```
 
 ## Flowchart
 <img src="https://github.com/samuelsemaya/data-karyawan-perusahaan/blob/main/flowchart/flowchart%20-%20main_menu.png" width=50% height=50%>
