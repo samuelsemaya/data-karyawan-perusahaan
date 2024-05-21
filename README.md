@@ -1,5 +1,3 @@
-<h3 align="center">data-karyawan-perusahaan</h3>
-
 # Company Employee Data
 
 ## Overview
@@ -35,5 +33,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Copyright
 Copyright &copy; 2024 Samuel Semaya
 
-<br><hr>
 [🔼 Back to top](#data-karyawan-perusahaan)
