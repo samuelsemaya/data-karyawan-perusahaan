@@ -36,4 +36,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 Copyright &copy; 2024 Samuel Semaya
 
 <br><hr>
-[🔼 Back to top](data-karyawan-perusahaan)
+[🔼 Back to top](#data-karyawan-perusahaan)
