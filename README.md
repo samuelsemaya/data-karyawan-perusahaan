@@ -27,5 +27,8 @@
 ## Contribution
 This repository aims to provide a valuable resource for developers by offering a collection of well-documented code snippets and examples. Contributions are encouraged to enhance the repository's usability and scalability. By contributing to this project, you are not only helping to enrich the developer community but also showcasing your expertise and fostering collaboration. Together, let's build a vibrant ecosystem of knowledge sharing and innovation.
 
+## License
+Distributed under the MIT License. See [MIT License for this project](docs/LICENSE.txt) for more information.
+
 ## Copyright
 Copyright &copy; 2024 Samuel Semaya
