@@ -5,8 +5,7 @@
 <p align="center"><img src="https://i.ibb.co.com/G3rWcZY/data-karyawan-perusahaan.png" width=50% height=50%></p>
 
 ## Overview
-The Company Employee Data project created in Python is a tool designed to manage and analyze employee information within a company. Using Python programming language, the project enables users to read, create update, and delete employee data efficiently. Moreover, the project can also be used for filter and sort data accurately.  The project helps in maintaining a centralized repository of employee details, such as names, positions, salaries, and contact information. It provides functionalities like adding new employees, updating existing records, and generating reports based on various parameters. Overall, the Company Employee Data project serves as a valuable tool for HR departments and managers to better organize and utilize employee information.
-
+<p align="justify">The Company Employee Data project created in Python is a tool designed to manage and analyze employee information within a company. Using Python programming language, the project enables users to read, create update, and delete employee data efficiently. Moreover, the project can also be used for filter and sort data accurately.  The project helps in maintaining a centralized repository of employee details, such as names, positions, salaries, and contact information. It provides functionalities like adding new employees, updating existing records, and generating reports based on various parameters. Overall, the Company Employee Data project serves as a valuable tool for HR departments and managers to better organize and utilize employee information.</p>
 
 ## Requirements
 * Python 3.12.3
@@ -36,7 +35,7 @@ pip install tabulate
 <p align="center"><img src="https://github.com/samuelsemaya/data-karyawan-perusahaan/blob/main/flowchart/flowchart%20-%20sort_data.png" width=50% height=50%></p>
 
 ## Contribution
-This repository aims to provide a valuable resource for developers by offering a collection of well-documented code snippets and examples. Contributions are encouraged to enhance the repository's usability and scalability. By contributing to this project, you are not only helping to enrich the developer community but also showcasing your expertise and fostering collaboration. Together, let's build a vibrant ecosystem of knowledge sharing and innovation.
+<p align="justify">This repository aims to provide a valuable resource for developers by offering a collection of well-documented code snippets and examples. Contributions are encouraged to enhance the repository's usability and scalability. By contributing to this project, you are not only helping to enrich the developer community but also showcasing your expertise and fostering collaboration. Together, let's build a vibrant ecosystem of knowledge sharing and innovation.</p>
 
 ## License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
