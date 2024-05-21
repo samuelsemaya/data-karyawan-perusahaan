@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Company Employee Data
 
 <img src="https://i.ibb.co.com/G3rWcZY/data-karyawan-perusahaan.png" width=50% height=50%>
@@ -40,3 +42,5 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## Copyright
 Copyright &copy; 2024 Samuel Semaya
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
