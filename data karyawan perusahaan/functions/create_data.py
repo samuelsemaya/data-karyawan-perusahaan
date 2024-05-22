@@ -27,8 +27,13 @@ def create_data():
         divisi = divisi.upper()
     else:
         divisi = divisi.capitalize()
+        
+    if jabatan.lower() == 'hr manager' or jabatan.lower() == 'hr specialist' or jabatan.lower() == 'seo specialist':
+        jabatan = jabatan.split()[0].upper() + ' ' + jabatan.split()[1].title()
+    else:
+        jabatan = jabatan.title()
 
-    data.append({'No.':'','NIK':pk(6),'Nama':nama.title(),'Umur':umur,'Jenis Kelamin':jenis_kelamin.capitalize(),'Alamat':alamat.title(),'Divisi':divisi,'Level':level.title(),'Jabatan':jabatan.title(),'Gaji':gaji})
+    data.append({'No.':'','NIK':pk(6),'Nama':nama.title(),'Umur':umur,'Jenis Kelamin':jenis_kelamin.capitalize(),'Alamat':alamat.title(),'Divisi':divisi,'Level':level.title(),'Jabatan':jabatan,'Gaji':gaji})
     
     for index, value in enumerate(data,1):
         value['No.'] = index

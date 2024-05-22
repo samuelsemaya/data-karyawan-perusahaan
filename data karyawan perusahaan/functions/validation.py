@@ -42,7 +42,7 @@ def validation_nama(x):
         if menu_6.replace(' ','').isalpha() and len(menu_6) >= 4:
             return menu_6
         else:
-            print('Input terlalu pendek ! Silahkan ulangi lagi')
+            print('Input tidak valid ! Silahkan ulangi lagi')
 
 def validation_divisi(x):
     while True:
@@ -50,4 +50,4 @@ def validation_divisi(x):
         if menu_7.replace(' ','').isalpha() and len(menu_7) >= 2:
             return menu_7
         else:
-            print('Input terlalu pendek ! Silahkan ulangi lagi')
+            print('Input tidak valid ! Silahkan ulangi lagi')
