@@ -16,12 +16,15 @@ def validation_digit(x):
 
 def validation_umur(x):
     while True:
-        menu = input(x)
-        menu2 = int(menu)
-        if menu.isdigit() and menu2 >= 17 and menu2 <=100:
-            return int(menu)
-        else:
-            print('Masukkan umur yang valid !')
+        try:
+            menu = input(x)
+            menu2 = int(menu)
+            if menu.isdigit() and menu2 >= 17 and menu2 <=100:
+                return int(menu)
+            else:
+                print('Masukkan umur yang valid !')
+        except:
+            print('Masukkan hanya angka !')
 
 def validation_kelamin(x):
     while True:
